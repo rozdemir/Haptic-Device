@@ -17,7 +17,7 @@
 
 	How to install 
 
-	1- git clone git@github.com:rozdemir/Group-7-proje2.git
+	1- git clone git@github.com:rozdemir/Haptic-Device.git
 	2- cd Group-7-proje2
 	3- make
 	4- sudo ./proje
